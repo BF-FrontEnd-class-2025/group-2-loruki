@@ -6,7 +6,7 @@ That's group-2's backlog!
 
 > these are necessary for basic usability
 
-- As a user I want to navigate easily so I need a navbar
+- As a user I want to see the logo and to have a navigation so I need a header
 - As a user I want to navigate easily to features so I need a button
 - As a user I want to request a demo so I need a form
 - As a user I want to see the cloud platform stats
@@ -14,7 +14,7 @@ That's group-2's backlog!
   information
 - As a user I want to know what languages are supported so need a supported
   language section
-- As a user I want to have access to navigation and the way to contact the owner
+- As a user I want to see the logo and have access to navigation and the way to contact the owner
   so I need a footer
 
 ## Should-Haves
