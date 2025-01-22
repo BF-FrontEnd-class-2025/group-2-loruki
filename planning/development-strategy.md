@@ -34,9 +34,9 @@ this feature developed on a branch `header`
 - style `flex` class with display flex
 - style `container` class with width, padding, overflow and margin
 
-## Feature-section
+## First feature-section
 
-this feature developed on a branch `feature-section`
+this feature developed on a branch `first-feature-section`
 
 ### HTML
 
@@ -100,18 +100,18 @@ this feature developed on a branch `cli-section`
 
 - the css is reused in this section
 
-## Cloud-section
+## Second feature-section
 
-this feature developed on a branch `cloud-section`
+this feature developed on a branch `second-feature-section`
 
 ### HTML
 
 - create a section with class `cloud bg-primary my-2 py-2`
 - under the section, create a `div` including class `container grid`
-- under the `div`, create a another `div` including class `text-center` and a `img`
-  tag for the image
-- add `h2`, `p`, `a` tags to the text-center `div`, the `a` tag with
-  class `btn btn-dark` for the link to features
+- under the `div`, create a another `div` including class `text-center` and a
+  `img` tag for the image
+- add `h2`, `p`, `a` tags to the text-center `div`, the `a` tag with class
+  `btn btn-dark` for the link to features
 
 ### CSS
 
