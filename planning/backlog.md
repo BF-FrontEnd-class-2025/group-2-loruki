@@ -14,8 +14,8 @@ That's group-2's backlog!
   information
 - As a user I want to know what languages are supported so need a supported
   language section
-- As a user I want to see the logo and have access to navigation and the way to contact the owner
-  so I need a footer
+- As a user I want to see the logo and have access to navigation and the way to
+  contact the owner so I need a footer
 
 ## Should-Haves
 
