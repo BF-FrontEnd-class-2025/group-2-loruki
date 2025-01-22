@@ -2,16 +2,13 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
-
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+> Loruki is a cloud platform with a simple, user-friendly design, making it easy
+> to navigate and manage applications effortlessly.
 
 ---
 
 ## Wireframe(s)
 
-> Include your wireframe(s) and link to wireframe
+### Our wireframe
 
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+![Loruki's wireframe](./wireframe.png)

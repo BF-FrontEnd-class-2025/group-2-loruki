@@ -1,7 +1,8 @@
 # Loruki
 
-> Loruki | Cheap cloud Hosting platform For Everyone.
- Loruki offers affordable cloud hosting with reliable performance, easy scalability, and developer-friendly features.
+> Loruki | Cheap cloud Hosting platform For Everyone. Loruki offers affordable
+> cloud hosting with reliable performance, easy scalability, and
+> developer-friendly features.
 
 ## Table of contents
 
