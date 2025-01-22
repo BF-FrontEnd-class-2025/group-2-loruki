@@ -1,10 +1,11 @@
-# Name of project
+# Loruki
 
-> A longer description
+> Loruki | Cheap cloud Hosting platform For Everyone.
+ Loruki offers affordable cloud hosting with reliable performance, easy scalability, and developer-friendly features.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Loruki](#loruki)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
