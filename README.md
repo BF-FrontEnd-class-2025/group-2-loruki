@@ -1,8 +1,6 @@
 # Loruki
 
-> Loruki | Cheap cloud Hosting platform For Everyone. Loruki offers affordable
-> cloud hosting with reliable performance, easy scalability, and
-> developer-friendly features.
+> Loruki | Cheap cloud Hosting platform For Everyone. -
 
 ## Table of contents
 
@@ -24,47 +22,117 @@
 
 ## General info
 
-> A short description
+> Loruki offers affordable cloud hosting with reliable performance, easy
+> scalability, and developer-friendly features.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Home screenshot](./planning/screenshot-1.png)
+![Feactures screenshot](./planning/screenshot-2.png)
+![Docs screenshot](./planning/screenshot-3.png)
 
 ## Technologies
 
-- Node 14.16.0
+- NPM 10.9.2
 - VSC code
-- JavaScript
-- ...
-- ...
+- HTML
+- CSS
 
 ## Setup
 
-- `npm run start`
+- clone the repository
+- `npm install`
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
+```HTML
+<section class="stats">
+      <div class="container">
+        <h3 class="stats-heading text-center my-1">
+          Welcome to the best platform for building applications of all types
+          with modern architecture and scaling
+        </h3>
+
+        <div class="grid grid-3 text-center my-4">
+          <div>
+            <i class="fas fa-server fa-3x"></i>
+            <h3>10,349,405</h3>
+            <p class="text-secondary">Deployments</p>
+          </div>
+          <div>
+            <i class="fas fa-upload fa-3x"></i>
+            <h3>987 TB</h3>
+            <p class="text-secondary">Published</p>
+          </div>
+          <div>
+            <i class="fas fa-project-diagram fa-3x"></i>
+            <h3>2,343,265</h3>
+            <p class="text-secondary">Projects</p>
+          </div>
+        </div>
+      </div>
+    </section>
+```
+
+```CSS
+@keyframes slideInFromLeft {
+  0% {
+    transform: translateX(-100%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInFromRight {
+  0% {
+    transform: translateX(100%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInFromTop {
+  0% {
+    transform: translateY(-100%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInFromBottom {
+  0% {
+    transform: translateY(100%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
 ```
 
 ## Features
 
 List of features ready and Todos for future development
 
--
--
--
+- [x] navigation bar
+- [x] home page showcase with animation
+- [x] main content for home, features and docs pages
+- [x] resource links for information
+- [x] footer socail links
 
 To-do list:
 
--
--
+- [ ] dark and white theme for the site
 
 ## Status
 
-Project is: _in progress_
+Project is: _done_
 
 ## Inspiration
 
@@ -72,7 +140,12 @@ Project by freeCodeCamp.org
 
 ## Contact
 
-By [Name]
+By
+
+- [Sajid Hussain](https://github.com/SajidHussainabbasi)
+- [Daniiel Mykytiuk](https://github.com/danmkt00)
+- [Harley Clair](https://github.com/harley-dane)
+- [Catherine Lin](https://github.com/boba-milktea)
 
 ## Instructions for use
 
