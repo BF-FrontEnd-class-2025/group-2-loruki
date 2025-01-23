@@ -9,6 +9,10 @@
 
 ## Wireframe(s)
 
-### Our wireframe
+### Home page
 
-![Loruki's wireframe](./wireframe.png)
+![Loruki's home wireframe](./home-wireframe.png)
+
+### Features page
+
+![Loruki's features wireframe](./features-wireframe.png)
