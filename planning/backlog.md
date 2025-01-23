@@ -63,3 +63,29 @@ That's group-2's backlog!
 > would be really cool ... if there's time
 
 - As a user user I want to have a dark and white theme
+
+## Docs page
+
+### Must-Haves
+
+> these are necessary for basic usability
+
+- As a user I want to see the logo and to have a navigation so I need a header
+- As a user I want to see the description and the image of the docs so I need a
+  head section
+- As a user I want to see more Essential and Deployment info links so i need a
+  Essentials and Introduction card
+- As a user I want to see the logo and have access to navigation and the way to
+  contact the owner so I need a footer
+
+### Should-Haves
+
+> these will complete the user experience, but are not necessary
+
+- none
+
+### Could-Haves
+
+> would be really cool ... if there's time
+
+- As a user user I want to have a dark and white theme

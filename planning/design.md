@@ -16,3 +16,7 @@
 ### Features page
 
 ![Loruki's features wireframe](./features-wireframe.png)
+
+### Docs page
+
+![Loruki's docs wireframe](./docs-wireframe.png)
