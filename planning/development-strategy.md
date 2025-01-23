@@ -259,7 +259,7 @@ this feature developed on a branch `features-footer`
 
 ### Header
 
-this feature developed on a branch `features-header`
+this feature developed on a branch `docs-header`
 
 #### HTML
 
