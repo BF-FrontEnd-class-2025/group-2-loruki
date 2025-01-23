@@ -254,3 +254,73 @@ this feature developed on a branch `features-footer`
 - style `a` tag under `social` class with margin
 - style `md` with font size
 - style the icons
+
+## Docs
+
+### Header
+
+this feature developed on a branch `features-header`
+
+#### HTML
+
+- create a `div` with class `navbar`
+- create a `div` with class `container flex`
+- add `h1` with class `logo` to the container `div`
+- add `nav` tag to the `div`
+
+#### CSS
+
+- style `navbar` class with background and color
+- style `flex` class with display flex
+- style `container` class with width, padding, overflow and margin
+
+### Head-section
+
+this feature developed on a branch `docs-head-section`
+
+#### HTML
+
+- create a section with class `docs-head bg-primary py-3`
+- create a `div` and add to class `container grid`
+- create a `div` and a `img` tag to the container `div`
+- create a `h1` with class `xl` and a `p` tag to the `div`
+
+#### CSS
+
+- style `docs-head bg-primary py-3` class with text-align, background, color and
+  padding
+- other styles applied from previous styling
+
+### Main-section
+
+this feature developed on a branch `main-section`
+
+#### HTML
+
+- create a section with class `docs-main my-4`
+- under the section, create a `div` with class `container grid`
+- under the container `div`, create 1 `div` with class `card bg-light p-3`
+- under this card `div`, create a `h3` tag and a `nav` tag
+- under each `nav` tag, create unordered list for links
+- under the container `div`, create another `div` with class `card`
+- under this card `div`, add necessary information with all the tags.
+
+#### CSS
+
+- style `nav` tag with display block
+- other styles applied from previous styling
+
+### Footer
+
+this feature developed on a branch `docs-footer`
+
+#### HTML
+
+- create a `footer`
+- add a `div` tag with class `container grid grid-3`
+- add a `div` with a `h1` tag for the logo and a `p` tag for the copy right to
+  the container div
+- add a `nav` tag to the container `div`
+- add a `div` with class `social` to the container `div`
+- create 4 `a` tag with the link to the social `div`.
+- add `i` tag with class `fab` ro each `a` tag for the icons
