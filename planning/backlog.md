@@ -2,7 +2,11 @@
 
 That's group-2's backlog!
 
-## Must-Haves
+---
+
+## Home page
+
+### Must-Haves
 
 > these are necessary for basic usability
 
@@ -17,14 +21,44 @@ That's group-2's backlog!
 - As a user I want to see the logo and have access to navigation and the way to
   contact the owner so I need a footer
 
-## Should-Haves
+### Should-Haves
 
 > these will complete the user experience, but are not necessary
 
 - As a user I want to have access to the features In the middle of the website
   so I need a button
 
-## Could-Haves
+### Could-Haves
+
+> would be really cool ... if there's time
+
+- As a user user I want to have a dark and white theme
+
+---
+
+## Features page
+
+### Must-Haves
+
+> these are necessary for basic usability
+
+- As a user I want to see the logo and to have a navigation so I need a header
+- As a user I want to see the description and the image of the features so I
+  need a head section
+- As a user I want to see the description and the image of the **Loruki
+  Platform** so I need a sub head section
+- As a user I want to see the features of the platform so I need a features
+  section
+- As a user I want to see the logo and have access to navigation and the way to
+  contact the owner so I need a footer
+
+### Should-Haves
+
+> these will complete the user experience, but are not necessary
+
+- none
+
+### Could-Haves
 
 > would be really cool ... if there's time
 
